@@ -28,6 +28,8 @@ export const siteConfig: SiteConfig = {
 		employerUrl: "https://example.com",
 		alumni: "Example University",
 		avatar: "/avatar.png",
+    x: "https://x.com/pandenlu",
+    facebook: "https://facebook.com/KevinLu2020",
 	},
 	// Uncomment & fill in to enable Giscus comments on every post.
 	// comments: {
