@@ -9,6 +9,7 @@ import newsreaderLatin from "@fontsource-variable/newsreader/files/newsreader-la
 type Props = SiteMeta;
 
 const {articleDate, description, ogImage, title} = Astro.props;
+const plainDescription = description?.replace(/<[^>]*>/g, "");
 
 const titleSeparator = "|";
 const siteTitle = `${title} ${titleSeparator} ${siteConfig.title}`;
