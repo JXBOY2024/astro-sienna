@@ -41,7 +41,7 @@ const goatcounter = analytics?.goatcounterUrl;
 <link href={canonicalURL} rel="canonical"/>
 
 <meta content={siteTitle} name="title"/>
-<meta content={description} name="description"/>
+<meta content={plainDescription} name="description"/>
 <meta content={siteConfig.author} name="author"/>
 
 <link rel="preload" as="font" type="font/woff2" href={newsreaderLatin} crossorigin />
@@ -51,7 +51,7 @@ const goatcounter = analytics?.goatcounterUrl;
 
 <meta content={articleDate ? "article" : "website"} property="og:type"/>
 <meta content={title} property="og:title"/>
-<meta content={description} property="og:description"/>
+<meta content={plainDescription} property="og:description"/>
 <meta content={canonicalURL} property="og:url"/>
 <meta content={siteConfig.title} property="og:site_name"/>
 <meta content={siteConfig.ogLocale} property="og:locale"/>
@@ -70,7 +70,7 @@ const goatcounter = analytics?.goatcounterUrl;
 <meta content="summary_large_image" property="twitter:card"/>
 <meta content={canonicalURL} property="twitter:url"/>
 <meta content={title} property="twitter:title"/>
-<meta content={description} property="twitter:description"/>
+<meta content={plainDescription} property="twitter:description"/>
 <meta content={socialImageURL} property="twitter:image"/>
 
 <link href={withBase("/sitemap-index.xml")} rel="sitemap"/>
