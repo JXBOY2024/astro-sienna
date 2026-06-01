@@ -48,7 +48,7 @@ const siteUrl = (path: string) => absoluteUrl(path, Astro.site);
 
 <PageLayout meta={{ title: "Home", description: siteConfig.description }}>
 	<section class="hero">
-		<p>{siteConfig.description}</p>
+		<p set:html={siteConfig.description} />
 		<div class="socials">
 			{profile?.github && (
 				<>
