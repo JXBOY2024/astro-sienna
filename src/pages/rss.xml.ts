@@ -8,7 +8,8 @@ export const GET = async () => {
 
 	return rss({
 		title: siteConfig.title,
-		description: siteConfig.description,
+		// description: siteConfig.description,
+    description: siteConfig.description.replace(/<[^>]*>/g, ""),
 		site: absoluteUrl("/", import.meta.env.SITE),
 		items: posts.map((post) => ({
 			title: post.data.title,
