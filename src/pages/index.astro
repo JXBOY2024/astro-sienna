@@ -58,13 +58,13 @@ const siteUrl = (path: string) => absoluteUrl(path, Astro.site);
 			)}
 			{profile?.linkedin && (
 				<>
-					<a href={profile.linkedin} rel="noreferrer" target="_blank">LinkedIn</a>
+					<a href={profile.x} rel="noreferrer" target="_blank">X</a>
 					<span class="sep">·</span>
 				</>
 			)}
-			{profile?.email && (
+			{profile?.facebook && (
 				<>
-					<a href={`mailto:${profile.email}`}>Email</a>
+					<a href={`mailto:${profile.email}`}>Fackbook</a>
 					<span class="sep">·</span>
 				</>
 			)}
