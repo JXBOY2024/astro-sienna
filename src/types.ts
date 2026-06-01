@@ -21,6 +21,8 @@ export interface ProfileConfig {
 	alumni?: string;
 	/** Absolute avatar/photo URL used in schema markup. */
 	avatar?: string;
+  x?: string;
+  facebook?: string;
 }
 
 /** Optional Giscus comment-widget config (https://giscus.app). */
