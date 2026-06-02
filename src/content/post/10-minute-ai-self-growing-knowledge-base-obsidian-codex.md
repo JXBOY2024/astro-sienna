@@ -1,7 +1,7 @@
 ---
 title: "十分钟搭一套 AI 自生长知识库"
 publishDate: 2026-06-02
-description: "A 10-minute setup using Obsidian and Codex to build an AI-powered knowledge base that automatically organizes, connects, and transforms notes into actionable insights for better learning, productivity, and information management."
+description: "A 10-minute setup using Obsidian and Codex to build an AI knowledge base that automatically organizes and connects notes into actionable insights for improved learning, productivity, and information management."
 tags: [ AI, Obsidian, Codex, Workflow, Knowledge ]
 ---
 
