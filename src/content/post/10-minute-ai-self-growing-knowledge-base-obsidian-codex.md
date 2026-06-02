@@ -9,7 +9,7 @@ Build a self-growing AI knowledge base in just 10 minutes with Obsidian and Code
 
 ---
 
-[图片 1](https://pbs.twimg.com/media/HJkVDasaEAEDkp7?format=jpg&name=900x900)
+![HJkVDasaEAEDkp7](https://img-reg-ab.imagency.cn/e/c64ec35826e72c64e83d59b8e5cc84ec.jpg)
 
 >你的笔记是不是也这样：
 >
@@ -413,7 +413,7 @@ Skill = **把你反复使用的方法论、工作流、判断标准，变成 AI 
 **最本质的区别：**
 
 > 用 AI 像临时找外包——你讲一遍背景，它改一次稿，下次还要从头来。
-
+>
 > 但当你把资料和方法论都沉淀在 Obsidian 里，AI 就能读到过去的积累，直接把产出放回系统。**你不是在用 AI 写作文，你是在养一个越来越懂你的 AI 助手。**
 
 ---
