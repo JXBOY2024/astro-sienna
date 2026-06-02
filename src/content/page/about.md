@@ -1,6 +1,6 @@
 ---
 title: About
-description: A personal digital garden exploring AI, quant trading, technology, and lifelong learning through structured notes, projects, and continuous thinking and building.
+description: A digital garden on AI, quant trading, tech, and lifelong learning through notes, projects, and continuous building and thinking.
 ---
 
 ## 你好，欢迎来到我的数字花园
