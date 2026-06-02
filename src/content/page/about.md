@@ -1,6 +1,6 @@
 ---
 title: About
-description: A short introduction. Replace this in src/content/page/about.md.
+description: A personal digital garden exploring AI, quant trading, technology, and lifelong learning through structured notes, projects, and continuous thinking and building.
 ---
 
 ## 你好，欢迎来到我的数字花园
