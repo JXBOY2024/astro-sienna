@@ -8,23 +8,17 @@ export interface ShowcaseItem {
 
 export const showcase: ShowcaseItem[] = [
 	{
-		name: "Sample Project",
+		name: "Real-time Weather and Forecast for Cities",
 		href: "https://blog.aivoraworks.com/",
-		stack: "TypeScript · CLI",
-		badge: "OSS",
-		desc: "A short, plain description of what the project does and why it's interesting. One or two sentences is plenty — keep the prose tight so the row stays scannable.",
+		stack: "Python · Algorithms · Monitor",
+		badge: "WebApp",
+		desc: "Real-time weather and forecasts for cities worldwide, providing accurate current conditions, hourly updates, and extended outlooks to help you plan your day with confidence.",
 	},
 	{
-		name: "Another Thing",
+		name: "Football Match Odds Monitoring",
 		href: "https://blog.aivoraworks.com/",
-		stack: "Web App · Realtime",
-		badge: "Live",
-		desc: "Use the badge slot for a status hint — installs, stars, version, or just an OSS / Closed marker. Leave the field undefined and the badge disappears.",
-	},
-	{
-		name: "Research Note",
-		href: "https://blog.aivoraworks.com/",
-		stack: "Python · Algorithms",
-		desc: "Showcase entries don't have to be products — a write-up, a paper repo, a one-off experiment all fit. The list is rendered in order; reorder to taste.",
+		stack: "Python · Monitor",
+		badge: "WebApp",
+		desc: "Real-time football match odds tracking and monitoring across leagues, providing live updates, price movements, and insights to help you follow betting market dynamics.",
 	},
 ];
