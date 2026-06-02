@@ -1,7 +1,7 @@
 ---
 title: "十分钟搭一套 AI 自生长知识库"
 publishDate: 2026-06-02
-description: "10-minute-ai-self-growing-knowledge-base-obsidian-codex."
+description: "A 10-minute setup using Obsidian and Codex to build an AI-powered knowledge base that automatically organizes, connects, and transforms notes into actionable insights for better learning, productivity, and information management."
 tags: [ intro, demo, guide ]
 ---
 
