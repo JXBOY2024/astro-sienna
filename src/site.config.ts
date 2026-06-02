@@ -39,10 +39,10 @@ export const siteConfig: SiteConfig = {
 	// 	categoryId: "...",
 	// },
 	// Uncomment to enable analytics. Both providers load via Partytown.
-	// analytics: {
-	// 	googleAnalyticsId: "G-XXXXXXX",
-	// 	goatcounterUrl: "https://your-handle.goatcounter.com/count",
-	// },
+	analytics: {
+	  googleAnalyticsId: "G-JHSK0HGJX4",
+	 	// goatcounterUrl: "https://your-handle.goatcounter.com/count",
+ },
 };
 
 export const menuLinks: { path: string; title: string }[] = [
