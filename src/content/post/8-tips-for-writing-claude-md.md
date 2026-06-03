@@ -1,14 +1,4 @@
 ---
-tags:
-  - VibeCoding
-  - blog
-  - AI
----
-
-
-# 写好 CLAUDE.md 的八条经验：让 Claude Code 更懂你的项目
-
----
 title: "写好 CLAUDE.md 的八条经验:让 Claude Code 更懂你的项目"
 publishDate: 2026-06-02
 description: "8-tips-for-writing-claude-md."
