@@ -1,5 +1,5 @@
 ---
-title: "写好 CLAUDE.md 的八条经验:让 Claude Code 更懂你的项目"
+title: "让Claude Code更懂你的项目的八条经验"
 publishDate: 2026-06-02
 description: "8-tips-for-writing-claude-md."
 tags: [ claude, vibecoding, guide ]
@@ -12,7 +12,7 @@ This article shares eight practical tips for writing an effective `CLAUDE.md`. K
 
 ![HHpW25YbcAAzQdc](https://img-reg-ab.imagency.cn/e/72e371eb42e75682fa90850fd7fc44cf.jpg)
 
->很多人刚开始用 Claude Code，会往 CLAUDE.md 里塞一切：项目历史、技术决策、个>人偏好、甚至公司价值观。结果呢？Claude 在 2000 行的上下文里迷失，生成出莫名其妙的东西，而你也不知道为什么。
+>很多人刚开始用 Claude Code，会往 CLAUDE.md 里塞一切：项目历史、技术决策、个人偏好、甚至公司价值观。结果呢？Claude 在 2000 行的上下文里迷失，生成出莫名其妙的东西，而你也不知道为什么。
 >
 >这篇文章不讲 CLAUDE.md 的结构规范。
 >这里讲的是实战中踩出来的 8 条经验——哪些反直觉的做法反而更有效，哪些坑踩一次就够了。
