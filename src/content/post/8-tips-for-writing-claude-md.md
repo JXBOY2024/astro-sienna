@@ -1,7 +1,7 @@
 ---
 title: "让Claude Code更懂你的项目的八条经验"
 publishDate: 2026-06-02
-description: "CLAUDE.md tips: stay concise, set constraints, use actionable rules, link docs, add local guidance, enforce hooks, maintain memory, and define workflow preferences for Claude Code."
+description: "CLAUDE.md: concise, set constraints, actionable rules, link docs, local guidance, hooks, memory, workflow preferences for better Claude Code understanding."
 tags: [ claude, vibecoding, guide ]
 
 ---
